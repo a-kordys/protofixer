@@ -1,0 +1,12 @@
+[package]
+name = "protofixer"
+version = "0.1.0"
+authors = ["Alexander Kordys <akordys@web3tech.ru>"]
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0"
+
+[dev-dependencies]
+hex = "0.4"
+lazy_static = "1.0"
